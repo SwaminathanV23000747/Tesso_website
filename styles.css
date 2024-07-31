@@ -1,0 +1,268 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100vw;
+    
+}
+.container{
+    height: 130vh;
+}
+
+header {
+    background-color: #d0ff02;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 20px;
+    width: 100vw;
+    position: fixed;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+}
+
+.cart {
+    display: flex;
+    align-items: center;
+}
+
+.cart img {
+    width: 20px;
+    height: 20px;
+}
+
+.cart span {
+    margin-left: 5px;
+    font-size: 16px;
+}
+
+.hero {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 50px 0;
+    padding-top: 100px;
+    z-index: 2;
+}
+
+.hero h1 {
+    font-size: 48px;
+    margin: 0;
+}
+
+.hero p {
+    font-size: 24px;
+    color: #d0ff02;
+}
+
+.products {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.product img {
+    width: 500px;
+    min-width: 300px;
+    height: 600px;
+    object-fit: cover;
+    
+}
+
+.footerleft{
+    
+    font-size: 40px;
+    width: 50%;
+    text-align: center;
+    
+}
+
+.footerright{
+    
+    text-align: center;
+    font-size: 30px;
+    display: flex;
+    align-items: end;
+}
+
+.footericon i{
+    color: #fff;
+}
+ 
+.footer-container{
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    height: 10vh;
+    
+    
+}
+.content {
+    flex: 1;
+}
+.footer {
+    background-color: #ccff00; /* Background color */
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #000;
+    bottom: 0;
+    
+}
+.footer .social-icons {
+    margin-left: 0px;
+}
+.footer .social-icons i {
+    margin: 0 10px;
+    height: 50px;
+    width: 50px;
+    font-size: 40px;
+    padding-left: 150px;
+    
+}
+.footer .copyright {
+    margin-right: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #000;
+    color: #fff;
+}
+.footer-section {
+    flex: 1;
+    text-align: center;
+}
+.footer-section h3 {
+    margin-top: 0;
+}
+.footer-section a {
+    color: #fff;
+    text-decoration: none;
+}
+.footer-section a:hover {
+    text-decoration: underline;
+}
+.social-media {
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+}
+.social-media a {
+    margin: 0 10px;
+    color: #75e66b;
+}
+
+
+
+
+
+
+.title1{
+    padding: 10px 45%;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+
+.slider {
+    width: 1300px;
+    display: flex;
+    padding: 30px 40px;
+    position: relative;
+}
+
+.slider .product {
+    min-width: 400px;
+    box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    margin-right: 90px;
+    transition: transform 0.5s ease;
+    z-index: -1;
+}
+
+.slider .product img {
+    width: 400px;
+    height: 450px;
+    object-fit: cover;
+    border-radius: 10px 10px 0 0;
+  
+}
+
+.slider .product .information {
+    padding: 20px 30px;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+    justify-content: space-between;
+}
+
+.slider .product .information button {
+    margin: 20px 0;
+    width: 100%;
+    background: rgb(230, 10, 65);
+    border: none;
+    outline: none;
+    color: rgb(247, 244, 244);
+    padding: 7px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+   
+}
+
+
+
+.slider .product .information .price {
+    font-size: 24px;
+}
+
+.arrow {
+    width: 1300px;
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.arrow button {
+    font-size: 20px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 1px solid gray;
+    background-color: white;
+    margin: 0 20px;
+    cursor: pointer;
+}
+
