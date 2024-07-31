@@ -11,8 +11,9 @@ Usage<br/>
 Folder Structure<br/>
 Contributing<br/>
 License<br/>
-Demo<br/>
-You can view a live demo of the Tesso Shop website here.
+# Demo
+Check out the live demo of the website [Live Demo](https://swaminathanv23000747.github.io/Tesso_website/).
+
 
 # Features
 User-friendly navigation bar with links to different product categories<br/>
