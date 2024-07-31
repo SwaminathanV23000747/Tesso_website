@@ -3,56 +3,53 @@ Tesso Shop
 Welcome to Tesso Shop, an e-commerce website for stylish and trendy outfits for men and women. This repository contains the source code for the Tesso Shop website, including HTML, CSS, and JavaScript files.
 
 # Table of Contents
-Demo
-Features
-Technologies Used
-Setup
-Usage
-Folder Structure
-Contributing
-License
-Demo
+Demo<br/>
+Features<br/>
+Technologies Used<br/>
+Setup<br/>
+Usage<br/>
+Folder Structure<br/>
+Contributing<br/>
+License<br/>
+Demo<br/>
 You can view a live demo of the Tesso Shop website here.
 
 # Features
-User-friendly navigation bar with links to different product categories
-Image slider showcasing various products in each category
-"Add to cart" functionality for products
-Responsive design suitable for different devices
-Social media integration in the footer
-Stylish layout and design
-Technologies Used
-HTML5
-CSS3
-JavaScript
-Font Awesome for icons
-Setup
-To set up the project locally, follow these steps:
+User-friendly navigation bar with links to different product categories<br/>
+Image slider showcasing various products in each category<br/>
+"Add to cart" functionality for products<br/>
+Responsive design suitable for different devices<br/>
+Social media integration in the footer<br/>
+Stylish layout and design<br/>
+# Technologies Used
+HTML5<br/>
+CSS3<br/>
+JavaScript<br/>
+Font Awesome for icons<br/>
+# Setup
+To set up the project locally, follow these steps:<br/>
 
-Clone the repository:
-bash
+Clone the repository:<br/>
+bash<br/>
 Copy code
-git clone https://github.com/yourusername/tesso-shop.git
-Navigate to the project directory:
-bash
+git clone :https://swaminathanv23000747.github.io/Tesso_website/
+Navigate to the project directory:<br/>
+bash:<br/>
 Copy code
 cd tesso-shop
 Open the index.html file in your preferred web browser.
 Usage
-Navigation: Use the navigation bar to browse different product categories.
-Add to Cart: Click the "Add to cart" button on any product to add it to your cart.
-Social Media: Use the social media icons in the footer to connect with us on various platforms.
-Folder Structure
+Navigation: Use the navigation bar to browse different product categories.:<br/>
+Add to Cart: Click the "Add to cart" button on any product to add it to your cart.:<br/>
+Social Media: Use the social media icons in the footer to connect with us on various platforms.:<br/>
 
 # Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps::<br/>
 
-Fork the repository.
-Create a new branch (git checkout -b feature/your-feature-name).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/your-feature-name).
-Open a pull request.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Thank you for visiting Tesso Shop! If you have any questions or need further assistance, feel free to contact us at info@mysite.com.
+Fork the repository.:<br/>
+Create a new branch (git checkout -b feature/your-feature-name).:<br/>
+Commit your changes (git commit -m 'Add some feature').:<br/>
+Push to the branch (git push origin feature/your-feature-name).:<br/>
+Open a pull request.<br/>
+# Screenshots:
+![image](https://github.com/user-attachments/assets/51402e9b-fdf7-4845-932a-9cd5fee39f93)
